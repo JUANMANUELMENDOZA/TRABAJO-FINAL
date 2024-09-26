@@ -17,7 +17,20 @@
     a.	Resultados de análisis
     b.	Conclusiones
 
-## PRODUCTO INTERNO BRUTO (PIB)
+## 1. Selección y Justificación de la Base de Datos.
+
+He elegido realizar el análisis de este apasionante tema: El consumo de energía eléctrica y su correlación con el crecimiento económico, dicho análisis acotado a nivel entidad federativa y Nacional.
+Iniciemos con lo referente al consumo de energía eléctrica. El consumo final de energía eléctrica se refiere a la energía eléctrica vendida a través de CFE suministradores y esquemas de autoabastecimiento. El consumo final se compone por seis sectores tarifarios: residencial, comercial, servicios, bombeo agrícola, empresa mediana y gran industria, estos últimos concentran el 37.4% y 23.7%, respectivamente. En tercer lugar, está el sector residencial con 26.3%, le siguen el comercial, agrícola y servicios con 5.8%, 5.4% y 1.4%, en ese orden. 
+
+Es importante señalar que, la planeación del desarrollo del sector eléctrico parte del análisis del consumo de electricidad para el mediano y largo plazo. Ello permite diseñar de manera óptima el desarrollo y la expansión de capacidad de las actividades de generación, transmisión, distribución y comercialización de energía eléctrica.
+El crecimiento del consumo de energía eléctrica está sujeto a diversos factores entre los más determinantes se encuentran: 
+
+**Crecimiento económico.** Consiste en la tasa de crecimiento del Producto Interno Bruto (PIB). Si el crecimiento de la economía de una localidad o región aumenta, en consecuencia, también lo hace el consumo y la demanda de electricidad. Cuando la población tiene una mejora en su ingreso económico, las ventas de servicios y productos y aparatos electrodomésticos como: televisores, refrigeradores y aires acondicionados se dinamizan.
+
+**Crecimiento poblacional.** Consiste en la tasa de crecimiento del número de habitantes dentro de un territorio. El crecimiento poblacional se encuentra estrechamente relacionado con la edificación de vivienda, servicios públicos, desarrollos comerciales, desarrollo industrial y en consecuencia más consumo de electricidad.
+Estacionalidad. Los factores climáticos, temperaturas extremas, nevadas, lluvias, tienden a elevar la demanda de un Sistema Eléctrico de Potencia y con ella el consumo de energía eléctrica. En algunas situaciones, los factores climáticos, huracanes, fenómeno de El Niño, La Niña, sensación térmica, entre otros, ocasionan variaciones significativas en la demanda y consumo de energía eléctrica. 
+
+**Electromovilidad.** La movilidad eléctrica a través de vehículos particulares y transporte público, mercancías, personas, local y foráneo, presenta una alternativa tangible para mejorar la movilidad y la reducción de emisiones al medio ambiente. En un Sistema Eléctrico aumenta el consumo de energía eléctrica y demanda por la carga del sistema de almacenamiento de energía de los vehículos eléctricos. 
 
 ![Captura de Pantalla 2024-09-26 a la(s) 2 42 26 p m](https://github.com/user-attachments/assets/c34da001-6fd4-4b01-865a-9acecbf77f06)
 ![Captura de Pantalla 2024-09-26 a la(s) 2 42 44 p m](https://github.com/user-attachments/assets/5f614a81-9f57-4157-8480-05596ac6f1a6)
