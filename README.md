@@ -35,7 +35,7 @@ Estacionalidad. Los factores climáticos, temperaturas extremas, nevadas, lluvia
 ![Captura de Pantalla 2024-09-26 a la(s) 2 42 26 p m](https://github.com/user-attachments/assets/c34da001-6fd4-4b01-865a-9acecbf77f06)
 ![Captura de Pantalla 2024-09-26 a la(s) 2 42 44 p m](https://github.com/user-attachments/assets/5f614a81-9f57-4157-8480-05596ac6f1a6)
 
-## Las consultas y obtención de las bases de datos se realizaron en las siguientes dependencias Gubernamentales:
+Las consultas y obtención de las bases de datos se realizaron en las siguientes dependencias Gubernamentales:
 
 ![Captura de Pantalla 2024-09-26 a la(s) 2 43 27 p m](https://github.com/user-attachments/assets/e46511aa-a75e-4122-922c-e59bc51384e5)
 ![Captura de Pantalla 2024-09-26 a la(s) 2 43 39 p m](https://github.com/user-attachments/assets/d572d2b9-db69-4605-945d-f89b61273c5c)
@@ -94,4 +94,58 @@ Si bien en los análisis estádisticos realizados en excel y la parte de python,
 
 ![Captura de Pantalla 2024-09-26 a la(s) 3 19 20 p m](https://github.com/user-attachments/assets/70cf306f-9af9-47e1-aa9b-bc77df9ddb41)
 ![Captura de Pantalla 2024-09-26 a la(s) 3 19 35 p m](https://github.com/user-attachments/assets/2c58d68a-8fa6-4b94-8397-30c0a0bd1785)
+![Captura de Pantalla 2024-09-26 a la(s) 3 35 32 p m](https://github.com/user-attachments/assets/b73097eb-ba6e-4010-b745-e78f0a9a986d)
+![Captura de Pantalla 2024-09-26 a la(s) 3 40 33 p m](https://github.com/user-attachments/assets/63448c4d-39db-4c7b-b1b2-0404b13f7a55)
+![Captura de Pantalla 2024-09-26 a la(s) 3 40 46 p m](https://github.com/user-attachments/assets/e8752afd-40f8-4a22-84e8-1112d6256d30)
+![Captura de Pantalla 2024-09-26 a la(s) 3 40 58 p m](https://github.com/user-attachments/assets/25292d96-df82-45f4-a4f1-513956d779a5)
+![Captura de Pantalla 2024-09-26 a la(s) 3 41 20 p m](https://github.com/user-attachments/assets/9908fb3b-6d1a-47fc-a4bf-bed4d4aa98d5)
+![Captura de Pantalla 2024-09-26 a la(s) 3 41 40 p m](https://github.com/user-attachments/assets/6e0e7a71-619f-4818-b649-223c6189a55c)
+![Captura de Pantalla 2024-09-26 a la(s) 3 41 54 p m](https://github.com/user-attachments/assets/ca8e2453-e7e0-4778-90e1-4db8c278f45e)
+
+
+## 5.	Interpretación y conclusiones
+
+En las figuras de la 1.1 a la 1.3 se muestra la definición del PIB, como se obtiene y su segmentación. Asimismo, en las figuras 1.4 y 1.5 se indican las fuentes de la bases de datos. Se explica adicionalmente el porque se elegierón estas bases de datos.
+La figuras 2.1 y 2.2, son muestra parcial de las fuentes de datos obtenidas. Asimismo, se comenta el tratamiento que se dío a las mismas.
+En referencia a las figuras de la 3.1 a la 3.33, se muestran la base de datos parcial a nivel nacional y por cada entidad federativa, en donde se muestran datos estádisticos como son media, mediana, desviación estandar y factor de correlación entre el PIB y consumo de energía.
+En particular la fig. 3.1, muestra el consumo de energía y el PIB a nivel nacional utilizando líneas. Cabe reiterar que, se dispone de datos del PIB para el periodo 2003-2022 y de consumo de energía del 2003 al 2016. En la gráfica se observa, una depresión en            2009-2010 a consecuencia de la pandemia de influenza y que provocó una contracción de la economía y en 2020 una mayor contracción a causa de la pandemia del COVID 19. Resalta la correlación positiva entre ambas curvas.
+El PIB a nivel nacional al cierre de 2022 fue de $24,268,261.335 MDP, es decir $24.26 Billones de pesos, derivado del análisis se observa la mayor aportación al PIB fue de:
+
+![Captura de Pantalla 2024-09-26 a la(s) 3 46 58 p m](https://github.com/user-attachments/assets/2c1f118c-6420-4033-9d2a-388f19721be1)
+
+
+
+Referente al consumo nacional de energía de 2016 (último dato certero) fue de 218,072.29 GWH, derivado del análisis se observa la mayor aportación al consumo fue de:
+
+![Captura de Pantalla 2024-09-26 a la(s) 3 48 00 p m](https://github.com/user-attachments/assets/75f0dc5f-f46e-4732-a6b8-e2dba5eeb118)
+
+Ahora bien, en las gráficas 3.1 a 3.33 y 4.1 a 4.9 se presenta entre otras cosas la correlación entre el PIB y el consumo de energía eléctrica a nivel nacional y los 32 estados (incluyendo la CDMX), merecen atención especial dos casos donde la correlación es negativa y casi cero.
+
+** • Estado de Campeche:** En las figuras 3.5 y 4.8 muestran una correlación negativa y se observa que a partir de 2003 el PIB tiene una tendencia a la baja, caso contrario al consumo de energía que tiende a incrementarse desde 2003. La causa de la caida en el PIB de manera constante durante los últimos años, es por la baja producción petrolera, el PIB dependía en un 80% de la actividad petrolera, por ello la economía del estado ha colapsado y se adapta al nuevo entorno económico. 
+
+**• Estado de Michoacan:** Las figuras 3.17 y 4.4 muestran una correlación minima y un comportamiento del PIB incrementandose de manera natural desde 2003, con las caidas en 2009 y 2020 causadas por las pandemias de influenza y COVID-19 respectivamente. Ahora bien, el consumo de energía presenta una caida muy pronunciada. 
+Al ser un estado poco industrializado, prácticamente solo la industria siderúrgica del puerto Lázaro Cárdenas es el principal impulsor. La caida en el consumo en 2009 interrumpió la tendencia al alza que se venía presentando y la recuperación aún no ha llegado, esto por diversos factores, la inseguridad y las huelgas que aquejan a esa industria. 
+
+A continuación se muestra un mapa que refleja el porcentaje de participación en el PIB nacional de cada entidad federativa al cierre de 2022.
+
+![Captura de Pantalla 2024-09-26 a la(s) 3 50 57 p m](https://github.com/user-attachments/assets/f7846e96-293b-4468-a080-cf9c5c3f60a9)
+
+
+
+A continuación se muestra un mapa que refleja el consumo de energía eléctrica en GWH en el ámbito regional al cierre de 2022.
+
+![Captura de Pantalla 2024-09-26 a la(s) 3 51 35 p m](https://github.com/user-attachments/assets/2d512b92-a2c7-4c40-91f8-00776aa36b4f)
+
+
+
+![Captura de Pantalla 2024-09-26 a la(s) 3 52 37 p m](https://github.com/user-attachments/assets/ec85e54c-3994-4bb4-886e-d10a22e5a90b)
+
+## CONCLUSIONES
+
+
+
+
+
+
+
 
