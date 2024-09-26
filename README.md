@@ -44,3 +44,22 @@ Estacionalidad. Los factores climáticos, temperaturas extremas, nevadas, lluvia
 La base de datos obtenida del INEGI, muestra los datos del PIB por entidad federativa durante el periodo de 2003 a 2022 a precios constantes tomando como refrencia 2018, contiene 34 columnas (32 estados, total nacional y la correspondiente al periodo), incluye 21 filas (encabezado y 20 años del periodo      2003-2022). 
 
 Cabe mencionar que, los datos de 33 columnas son valores en moneda, en Millones de Pesos, la otra columna son valores numericos correspondiente al año. A continuación una muestra parcial de la base de datos.
+
+![Captura de Pantalla 2024-09-26 a la(s) 2 56 50 p m](https://github.com/user-attachments/assets/fa11362a-1857-4a0f-8e49-af4546794479)
+
+
+## Referente a la base de datos obtenida de SENER, muestra los datos del consumo de energía eléctrica por entidad federativa durante el periodo de 2003 a 2016, contiene 34 columnas (32 estados, total nacional y la correspondiente al periodo), incluye 15 filas (encabezado y 14 años del periodo 2003-2016).
+
+Cabe mencionar que, los datos de 33 columnas son valores en número, Gigawatts-hora la otra columna son valores numericos correspondiente al año. Es importante señalar que, la base de datos del PIB por Estado muestra información del periodo 2003-2022, mientras que, la base de datos correspondiente al consumo de energía por Estado, solo durante el periodo 2003-2016, los consumos de energía durante el periodo 2017-2022 estan concentrados por bloques que incluyen más de un estado. Asimismo, con el objetivo de hacer coincidir bases de datos fue necesario trasponer datos correspondientes al consumo de energía eléctrica y convertir tablas xls a csv.  A continuación muestra parcial de BD.
+
+![Captura de Pantalla 2024-09-26 a la(s) 2 58 51 p m](https://github.com/user-attachments/assets/63b569dd-7b31-4d00-954f-ef7dba193dec)
+
+
+## 3.	Análisis exploratorio de datos (EDA).
+
+![Captura de Pantalla 2024-09-26 a la(s) 3 01 45 p m](https://github.com/user-attachments/assets/b9738e6a-7050-470d-ab8a-dc7b4a8b18fd)
+![Captura de Pantalla 2024-09-26 a la(s) 3 02 10 p m](https://github.com/user-attachments/assets/944090df-95d3-4774-9783-e45e3566f201)
+
+
+
+
