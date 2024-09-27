@@ -134,6 +134,8 @@ Cabe mencionar que, los datos de 33 columnas son valores en número, Gigawatts-h
 
 ## 3.	Análisis exploratorio de datos (EDA).
 
+Utilizando excel, se integraron las bases de datos para realizar cálculos estadísticos (media, mediana, desviación estandar y factor de correlación) y gráficas que reflejan la correlación entre PIB y consumo de energía. 
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 01 45 p m](https://github.com/user-attachments/assets/b9738e6a-7050-470d-ab8a-dc7b4a8b18fd)
 ![Captura de Pantalla 2024-09-26 a la(s) 3 02 10 p m](https://github.com/user-attachments/assets/944090df-95d3-4774-9783-e45e3566f201)
 ![Captura de Pantalla 2024-09-26 a la(s) 3 04 34 p m](https://github.com/user-attachments/assets/c0f97686-e8ac-4f11-945d-722f62081686)
@@ -151,8 +153,6 @@ Cabe mencionar que, los datos de 33 columnas son valores en número, Gigawatts-h
 ![Captura de Pantalla 2024-09-26 a la(s) 3 09 06 p m](https://github.com/user-attachments/assets/21b713b0-8b3d-4d92-8285-e3e96fcc4bd7)
 ![Captura de Pantalla 2024-09-26 a la(s) 3 09 19 p m](https://github.com/user-attachments/assets/6a8e76f3-c63a-44d3-89ed-cf4f6a1910e4)
 ![Captura de Pantalla 2024-09-26 a la(s) 3 09 42 p m](https://github.com/user-attachments/assets/c1503b2d-d1c6-4c5d-bca0-944a0dff0260)
-
-
 
 
 Ahora bien, aplicando lo visto en la 3ª sesión de python, prepare el archivo excel a csv, eliminando la columna de periodos y dejando para análisis el periodo 2003-2016. A continuación se muestran imágenes del código, análisis estádistico y mapa de calor para correlación entre PIB y consumo de energía eléctrica.
@@ -184,12 +184,12 @@ Si bien en los análisis estádisticos realizados en excel y la parte de python,
 En las figuras de la 1.1 a la 1.3 se muestra la definición del PIB, como se obtiene y su segmentación. Asimismo, en las figuras 1.4 y 1.5 se indican las fuentes de la bases de datos. Se explica adicionalmente el porque se elegierón estas bases de datos.
 La figuras 2.1 y 2.2, son muestra parcial de las fuentes de datos obtenidas. Asimismo, se comenta el tratamiento que se dío a las mismas.
 En referencia a las figuras de la 3.1 a la 3.33, se muestran la base de datos parcial a nivel nacional y por cada entidad federativa, en donde se muestran datos estádisticos como son media, mediana, desviación estandar y factor de correlación entre el PIB y consumo de energía.
-En particular la fig. 3.1, muestra el consumo de energía y el PIB a nivel nacional utilizando líneas. Cabe reiterar que, se dispone de datos del PIB para el periodo 2003-2022 y de consumo de energía del 2003 al 2016. En la gráfica se observa, una depresión en            2009-2010 a consecuencia de la pandemia de influenza y que provocó una contracción de la economía y en 2020 una mayor contracción a causa de la pandemia del COVID 19. Resalta la correlación positiva entre ambas curvas.
+
+En particular las figuras 3.1 y 4.1, muestran el consumo de energía y el PIB a nivel nacional utilizando líneas y gráfica combinada. Cabe reiterar que, se dispone de datos del PIB para el periodo 2003-2022 y de consumo de energía del 2003 al 2016. En las gráficas se observa, una depresión en  2009-2010 a consecuencia de la pandemia de influenza y que provocó una contracción de la economía y en 2020 una mayor contracción a causa de la pandemia del COVID 19. Resalta la correlación positiva entre ambas curvas.
+
 El PIB a nivel nacional al cierre de 2022 fue de $24,268,261.335 MDP, es decir $24.26 Billones de pesos, derivado del análisis se observa la mayor aportación al PIB fue de:
 
 ![Captura de Pantalla 2024-09-26 a la(s) 3 46 58 p m](https://github.com/user-attachments/assets/2c1f118c-6420-4033-9d2a-388f19721be1)
-
-
 
 Referente al consumo nacional de energía de 2016 (último dato certero) fue de 218,072.29 GWH, derivado del análisis se observa la mayor aportación al consumo fue de:
 
@@ -197,9 +197,9 @@ Referente al consumo nacional de energía de 2016 (último dato certero) fue de 
 
 Ahora bien, en las gráficas 3.1 a 3.33 y 4.1 a 4.9 se presenta entre otras cosas la correlación entre el PIB y el consumo de energía eléctrica a nivel nacional y los 32 estados (incluyendo la CDMX), merecen atención especial dos casos donde la correlación es negativa y casi cero.
 
-** • Estado de Campeche:** En las figuras 3.5 y 4.8 muestran una correlación negativa y se observa que a partir de 2003 el PIB tiene una tendencia a la baja, caso contrario al consumo de energía que tiende a incrementarse desde 2003. La causa de la caida en el PIB de manera constante durante los últimos años, es por la baja producción petrolera, el PIB dependía en un 80% de la actividad petrolera, por ello la economía del estado ha colapsado y se adapta al nuevo entorno económico. 
+**Estado de Campeche:** En las figuras 3.5 y 4.8 muestran una correlación negativa y se observa que a partir de 2003 el PIB tiene una tendencia a la baja, caso contrario al consumo de energía que tiende a incrementarse desde 2003. La causa de la caida en el PIB de manera constante durante los últimos años, es por la baja producción petrolera, el PIB dependía en un 80% de la actividad petrolera, por ello la economía del estado ha colapsado y se adapta al nuevo entorno económico. 
 
-**• Estado de Michoacan:** Las figuras 3.17 y 4.4 muestran una correlación minima y un comportamiento del PIB incrementandose de manera natural desde 2003, con las caidas en 2009 y 2020 causadas por las pandemias de influenza y COVID-19 respectivamente. Ahora bien, el consumo de energía presenta una caida muy pronunciada. 
+**Estado de Michoacan:** Las figuras 3.17 y 4.4 muestran una correlación minima y un comportamiento del PIB incrementandose de manera natural desde 2003, con las caidas en 2009 y 2020 causadas por las pandemias de influenza y COVID-19 respectivamente. Ahora bien, el consumo de energía presenta una caida muy pronunciada. 
 Al ser un estado poco industrializado, prácticamente solo la industria siderúrgica del puerto Lázaro Cárdenas es el principal impulsor. La caida en el consumo en 2009 interrumpió la tendencia al alza que se venía presentando y la recuperación aún no ha llegado, esto por diversos factores, la inseguridad y las huelgas que aquejan a esa industria. 
 
 A continuación se muestra un mapa que refleja el porcentaje de participación en el PIB nacional de cada entidad federativa al cierre de 2022.
@@ -207,11 +207,9 @@ A continuación se muestra un mapa que refleja el porcentaje de participación e
 ![Captura de Pantalla 2024-09-26 a la(s) 3 50 57 p m](https://github.com/user-attachments/assets/f7846e96-293b-4468-a080-cf9c5c3f60a9)
 
 
-
 A continuación se muestra un mapa que refleja el consumo de energía eléctrica en GWH en el ámbito regional al cierre de 2022.
 
 ![Captura de Pantalla 2024-09-26 a la(s) 3 51 35 p m](https://github.com/user-attachments/assets/2d512b92-a2c7-4c40-91f8-00776aa36b4f)
-
 
 
 ![Captura de Pantalla 2024-09-26 a la(s) 3 52 37 p m](https://github.com/user-attachments/assets/ec85e54c-3994-4bb4-886e-d10a22e5a90b)
