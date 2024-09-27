@@ -20,6 +20,9 @@
 ## 1. Selección y Justificación de la Base de Datos.
 
 He elegido realizar el análisis de este apasionante tema: El consumo de energía eléctrica y su correlación con el crecimiento económico, dicho análisis acotado a nivel entidad federativa y Nacional.
+
+El objetivo es demostrar que en condiciones normales la correlación entre el PIB y el consumo de energía eléctrica debe ser positiva, tanto a nivel nacional como por entidad federativa. Ahora bien, en los casos que no sea así, determinar la causa raíz.
+
 Iniciemos con lo referente al consumo de energía eléctrica. El consumo final de energía eléctrica se refiere a la energía eléctrica vendida a través de CFE suministradores y esquemas de autoabastecimiento. El consumo final se compone por seis sectores tarifarios: residencial, comercial, servicios, bombeo agrícola, empresa mediana y gran industria, estos últimos concentran el 37.4% y 23.7%, respectivamente. En tercer lugar, está el sector residencial con 26.3%, le siguen el comercial, agrícola y servicios con 5.8%, 5.4% y 1.4%, en ese orden. 
 
 Es importante señalar que, la planeación del desarrollo del sector eléctrico parte del análisis del consumo de electricidad para el mediano y largo plazo. Ello permite diseñar de manera óptima el desarrollo y la expansión de capacidad de las actividades de generación, transmisión, distribución y comercialización de energía eléctrica.
@@ -31,6 +34,8 @@ El crecimiento del consumo de energía eléctrica está sujeto a diversos factor
 Estacionalidad. Los factores climáticos, temperaturas extremas, nevadas, lluvias, tienden a elevar la demanda de un Sistema Eléctrico de Potencia y con ella el consumo de energía eléctrica. En algunas situaciones, los factores climáticos, huracanes, fenómeno de El Niño, La Niña, sensación térmica, entre otros, ocasionan variaciones significativas en la demanda y consumo de energía eléctrica. 
 
 **Electromovilidad.** La movilidad eléctrica a través de vehículos particulares y transporte público, mercancías, personas, local y foráneo, presenta una alternativa tangible para mejorar la movilidad y la reducción de emisiones al medio ambiente. En un Sistema Eléctrico aumenta el consumo de energía eléctrica y demanda por la carga del sistema de almacenamiento de energía de los vehículos eléctricos. 
+
+En lo que respecta al PIB, el INEGI y la secretaria de economía, lo explican de forma muy elocuente.
 
 ![Captura de Pantalla 2024-09-26 a la(s) 2 42 26 p m](https://github.com/user-attachments/assets/c34da001-6fd4-4b01-865a-9acecbf77f06)
 ![Captura de Pantalla 2024-09-26 a la(s) 2 42 44 p m](https://github.com/user-attachments/assets/5f614a81-9f57-4157-8480-05596ac6f1a6)
@@ -88,45 +93,38 @@ Referente a la base de datos obtenida de SENER, muestra los datos del consumo de
 
 1. Periodos
 2. Consumo E.E. Nacional
-3. PIB Aguascalientes
-4. PIB Baja California
-5. PIB Baja California Sur
-6. PIB Campeche
-7. PIB Coahuila
-8. PIB Colima
-9. PIB Chiapas
-10. PIB Chihuahua
-11. PIB CDMX
-12. PIB Durango
-13. PIB Guanajuato
-14. PIB Guerrero
-15. PIB Hidalgo
-16. PIB Jalisco
-17. PIB Estado de México
-18. PIB Michoacan
-19. PIB Morelos
-20. PIB Nayarit
-21. PIB Nuevo León
-22. PIB Oaxaca
-23. PIB Puebla
-24. PIB Querétaro
-25. PIB Qintana Roo
-26. PIB San Luis Potosí
-27. PIB Sinaloa
-28. PIB Sonora
-29. PIB Tabasco
-30. PIB Tamaulipas
-31. PIB Tlaxcala
-32. PIB Veracruz
-33. PIB Yucatan
-34. PIB Zacateca
-
-
-
-
-
-
-
+3. Consumo E.E. Aguascalientes
+4. Consumo E.E. Baja California
+5. Consumo E.E. Baja California Sur
+6. Consumo E.E. Campeche
+7. Consumo E.E. Coahuila
+8. Consumo E.E. Colima
+9. Consumo E.E. Chiapas
+10. Consumo E.E. Chihuahua
+11. Consumo E.E. CDMX
+12. Consumo E.E. Durango
+13. Consumo E.E. Guanajuato
+14. Consumo E.E. Guerrero
+15. Consumo E.E. Hidalgo
+16. Consumo E.E. Jalisco
+17. Consumo E.E. Estado de México
+18. Consumo E.E. Michoacan
+19. Consumo E.E. Morelos
+20. Consumo E.E. Nayarit
+21. Consumo E.E. Nuevo León
+22. Consumo E.E. Oaxaca
+23. Consumo E.E. Puebla
+24. Consumo E.E. Querétaro
+25. Consumo E.E. Qintana Roo
+26. Consumo E.E. San Luis Potosí
+27. Consumo E.E. Sinaloa
+28. Consumo E.E. Sonora
+29. Consumo E.E. Tabasco
+30. Consumo E.E. Tamaulipas
+31. Consumo E.E. Tlaxcala
+32. Consumo E.E. Veracruz
+33. Consumo E.E. Yucatan
+34. Consumo E.E. Zacateca
 
 
 Cabe mencionar que, los datos de 33 columnas son valores en número, Gigawatts-hora la otra columna son valores numericos correspondiente al año. Es importante señalar que, la base de datos del PIB por Estado muestra información del periodo 2003-2022, mientras que, la base de datos correspondiente al consumo de energía por Estado, solo durante el periodo 2003-2016, los consumos de energía durante el periodo 2017-2022 estan concentrados por bloques que incluyen más de un estado. Asimismo, con el objetivo de hacer coincidir bases de datos fue necesario trasponer datos correspondientes al consumo de energía eléctrica y convertir tablas xls a csv.  A continuación muestra parcial de BD.
