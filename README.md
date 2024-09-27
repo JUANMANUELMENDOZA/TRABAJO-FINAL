@@ -221,7 +221,7 @@ A continuación se muestra un mapa que refleja el consumo de energía eléctrica
 
 3. La relocalización de empresas que actualmente estan o estaban en China y han optado por instalarse en nuestro país (NEOSHORING), buscan instalarse en sitios donde se disponga de entre otras cosas, de red eléctrica para formar parques industriales que satisfagan la demanda de energía eléctrica. Asimismo, buscan condiciones de servicios básicos como agua, seguridad, certidumbre jurídica y acceso a medios de transporte con rutas a Estados Unidos de America principalmente.
 
-4. México dispone de un potencial para generar energías limpias (Sol y viento), la figura 5.3 muestra los mapas por separado. Asimismo, el mapa final de la figura 5.3, muestra el pronostico de crecimiento por región tanto del PIB como del consumo de energía eléctrica. 
+4. México dispone de un potencial para generar energías limpias (Sol y viento), la figura 5.3 muestra los mapas por separado. Asimismo, el mapa final de la figura 5.3, muestra el pronostico de crecimiento por región del consumo de energía eléctrica. 
 
 
 ![Captura de Pantalla 2024-09-26 a la(s) 3 52 37 p m](https://github.com/user-attachments/assets/ec85e54c-3994-4bb4-886e-d10a22e5a90b)
