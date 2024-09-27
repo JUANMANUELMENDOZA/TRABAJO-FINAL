@@ -42,7 +42,42 @@ Las consultas y obtención de las bases de datos se realizaron en las siguientes
 
 ## 2.	Preparación y limpieza de los datos.
 
-La base de datos obtenida del INEGI, muestra los datos del PIB por entidad federativa durante el periodo de 2003 a 2022 a precios constantes tomando como refrencia 2018, contiene 34 columnas (32 estados, total nacional y la correspondiente al periodo), incluye 21 filas (encabezado y 20 años del periodo      2003-2022). 
+La base de datos obtenida del INEGI, muestra los datos del PIB por entidad federativa durante el periodo de 2003 a 2022 a precios constantes tomando como referencia 2018, contiene 34 columnas (32 estados, total nacional y la correspondiente al periodo), incluye 21 filas (encabezado y 20 años del periodo 2003-2022). 
+
+1. Periodos
+2. PIB Nacional
+3. PIB Aguascalientes
+4. PIB Baja California
+5. PIB Baja California Sur
+6. PIB Campeche
+7. PIB Coahuila
+8. PIB Colima
+9. PIB Chiapas
+10. PIB Chihuahua
+11. PIB CDMX
+12. PIB Durango
+13. PIB Guanajuato
+14. PIB Guerrero
+15. PIB Hidalgo
+16. PIB Jalisco
+17. PIB Estado de México
+18. PIB Michoacan
+19. PIB Morelos
+20. PIB Nayarit
+21. PIB Nuevo León
+22. PIB Oaxaca
+23. PIB Puebla
+24. PIB Querétaro
+25. PIB Qintana Roo
+26. PIB San Luis Potosí
+27. PIB Sinaloa
+28. PIB Sonora
+29. PIB Tabasco
+30. PIB Tamaulipas
+31. PIB Tlaxcala
+32. PIB Veracruz
+33. PIB Yucatan
+34. PIB Zacatecas
 
 Cabe mencionar que, los datos de 33 columnas son valores en moneda, en Millones de Pesos, la otra columna son valores numericos correspondiente al año. A continuación una muestra parcial de la base de datos.
 
@@ -50,6 +85,49 @@ Cabe mencionar que, los datos de 33 columnas son valores en moneda, en Millones 
 
 
 Referente a la base de datos obtenida de SENER, muestra los datos del consumo de energía eléctrica por entidad federativa durante el periodo de 2003 a 2016, contiene 34 columnas (32 estados, total nacional y la correspondiente al periodo), incluye 15 filas (encabezado y 14 años del periodo 2003-2016).
+
+1. Periodos
+2. Consumo E.E. Nacional
+3. PIB Aguascalientes
+4. PIB Baja California
+5. PIB Baja California Sur
+6. PIB Campeche
+7. PIB Coahuila
+8. PIB Colima
+9. PIB Chiapas
+10. PIB Chihuahua
+11. PIB CDMX
+12. PIB Durango
+13. PIB Guanajuato
+14. PIB Guerrero
+15. PIB Hidalgo
+16. PIB Jalisco
+17. PIB Estado de México
+18. PIB Michoacan
+19. PIB Morelos
+20. PIB Nayarit
+21. PIB Nuevo León
+22. PIB Oaxaca
+23. PIB Puebla
+24. PIB Querétaro
+25. PIB Qintana Roo
+26. PIB San Luis Potosí
+27. PIB Sinaloa
+28. PIB Sonora
+29. PIB Tabasco
+30. PIB Tamaulipas
+31. PIB Tlaxcala
+32. PIB Veracruz
+33. PIB Yucatan
+34. PIB Zacateca
+
+
+
+
+
+
+
+
 
 Cabe mencionar que, los datos de 33 columnas son valores en número, Gigawatts-hora la otra columna son valores numericos correspondiente al año. Es importante señalar que, la base de datos del PIB por Estado muestra información del periodo 2003-2022, mientras que, la base de datos correspondiente al consumo de energía por Estado, solo durante el periodo 2003-2016, los consumos de energía durante el periodo 2017-2022 estan concentrados por bloques que incluyen más de un estado. Asimismo, con el objetivo de hacer coincidir bases de datos fue necesario trasponer datos correspondientes al consumo de energía eléctrica y convertir tablas xls a csv.  A continuación muestra parcial de BD.
 
