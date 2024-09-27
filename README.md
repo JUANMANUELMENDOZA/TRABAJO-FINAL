@@ -211,10 +211,31 @@ A continuación se muestra un mapa que refleja el consumo de energía eléctrica
 
 ![Captura de Pantalla 2024-09-26 a la(s) 3 51 35 p m](https://github.com/user-attachments/assets/2d512b92-a2c7-4c40-91f8-00776aa36b4f)
 
+## CONCLUSIONES
+
+**LECCIONES APRENDIDAS**
+
+1. Como resultado del análisis podemos concluir que el Comportamiento del producto interno bruto (PIB) y el consumo de energía eléctrica en una región y durante un periodo, presentan una correlación positiva, hay contadas excepciones que no se cumple y donde la causa raíz es un evento atipico que influya en el comportamiento de las variables mencionadas.
+
+2. Con base a lo anterior podemos afirmar que sin energía eléctrica no hay crecimiento económico, no hay generación de empleos y en si generación de riqueza en una región.
+
+3. La relocalización de empresas que actualmente estan o estaban en China y han optado por instalarse en nuestro país (NEOSHORING), buscan instalarse en sitios donde se disponga de entre otras cosas, de red eléctrica para formar parques industriales que satisfagan la demanda de energía eléctrica. Asimismo, buscan condiciones de servicios básicos como agua, seguridad, certidumbre jurídica y acceso a medios de transporte con rutas a Estados Unidos de America principalmente.
+
+4. México dispone de un potencial para generar energías limpias (Sol y viento), la figura 5.3 muestra los mapas por separado. Asimismo, el mapa final de la figura 5.3, muestra el pronostico de crecimiento por región tanto del PIB como del consumo de energía eléctrica. 
+
 
 ![Captura de Pantalla 2024-09-26 a la(s) 3 52 37 p m](https://github.com/user-attachments/assets/ec85e54c-3994-4bb4-886e-d10a22e5a90b)
 
-## CONCLUSIONES
+
+**PASOS A SEGUIR**
+
+1. Con la entrada de la nueva administración, se espera que esten disponibles nuevamente las bases de datos del consumo de energía eléctrica por estados y municipios.
+
+2. Con base a lo anterior, realizar un nuevo análisis y contrastarlo con los mapas actuales donde se indique el potencial de energías limpias (Solar y eólica).
+
+3. El país requiere de energía para estar en movimiento, si el próximo Gobierno decide hacer inversiones públicas, privadas o mixtas, bienvenidas.
+
+
 
 
 
