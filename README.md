@@ -41,6 +41,7 @@ En lo que respecta al PIB, el INEGI y la secretaria de economía, lo explican de
 ![Captura de Pantalla 2024-09-26 a la(s) 2 42 26 p m](https://github.com/user-attachments/assets/c34da001-6fd4-4b01-865a-9acecbf77f06)
 ![Captura de Pantalla 2024-09-26 a la(s) 2 42 44 p m](https://github.com/user-attachments/assets/5f614a81-9f57-4157-8480-05596ac6f1a6)
 
+
 Las consultas y obtención de las bases de datos se realizaron en las siguientes dependencias Gubernamentales:
 
 ![Captura de Pantalla 2024-09-26 a la(s) 2 43 27 p m](https://github.com/user-attachments/assets/e46511aa-a75e-4122-922c-e59bc51384e5)
@@ -138,21 +139,37 @@ Cabe mencionar que, los datos de 33 columnas son valores en número, Gigawatts-h
 Utilizando excel, se integraron las bases de datos para realizar cálculos estadísticos (media, mediana, desviación estandar y factor de correlación) y gráficas que reflejan la correlación entre PIB y consumo de energía. 
 
 ![Captura de Pantalla 2024-09-26 a la(s) 3 01 45 p m](https://github.com/user-attachments/assets/b9738e6a-7050-470d-ab8a-dc7b4a8b18fd)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 02 10 p m](https://github.com/user-attachments/assets/944090df-95d3-4774-9783-e45e3566f201)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 04 34 p m](https://github.com/user-attachments/assets/c0f97686-e8ac-4f11-945d-722f62081686)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 04 54 p m](https://github.com/user-attachments/assets/d25660c2-75dc-468f-a757-f538b031aa41)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 05 18 p m](https://github.com/user-attachments/assets/ab0091f5-1d9a-46a4-974a-d5e9f308202d)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 05 44 p m](https://github.com/user-attachments/assets/379e557b-520d-4f44-add4-38dd25e29211)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 06 09 p m](https://github.com/user-attachments/assets/5bf66059-a142-42f5-bc9a-3007de583aef)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 06 30 p m](https://github.com/user-attachments/assets/a0a7dbc9-c993-4d0e-96be-d6bda8602627)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 06 58 p m](https://github.com/user-attachments/assets/40267985-0745-4fd1-8e7c-acd3f3f349c3)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 07 23 p m](https://github.com/user-attachments/assets/3e93e6cd-ed29-4d15-9870-9f8581f1fc78)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 07 46 p m](https://github.com/user-attachments/assets/46554c1d-c51b-4cf9-bab2-1d6cde627aa1)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 08 02 p m](https://github.com/user-attachments/assets/43fdf05c-2af0-4893-aa20-d3cfb10902ad)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 08 16 p m](https://github.com/user-attachments/assets/9a2b1b4d-f22c-48a9-a9f1-35e92510253e)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 08 37 p m](https://github.com/user-attachments/assets/3b9949ff-8988-47ce-bf78-4c76da618134)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 09 06 p m](https://github.com/user-attachments/assets/21b713b0-8b3d-4d92-8285-e3e96fcc4bd7)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 09 19 p m](https://github.com/user-attachments/assets/6a8e76f3-c63a-44d3-89ed-cf4f6a1910e4)
+
 ![Captura de Pantalla 2024-09-26 a la(s) 3 09 42 p m](https://github.com/user-attachments/assets/c1503b2d-d1c6-4c5d-bca0-944a0dff0260)
 
 
@@ -225,11 +242,14 @@ A continuación se muestra un mapa que refleja el consumo de energía eléctrica
 4. México dispone de un potencial para generar energías limpias (Sol y viento), la figura 5.4 muestra los mapas por separado. Asimismo, el mapa final de la figura 5.4, muestra el pronostico de crecimiento por región del consumo de energía eléctrica.
 
 
-![Captura de Pantalla 2024-09-30 a la(s) 10 20 28 a m](https://github.com/user-attachments/assets/0b8d38a6-4bbf-4343-97d7-72499cac91ef)
+![Captura de Pantalla 2024-09-30 a la(s) 1 27 54 p m](https://github.com/user-attachments/assets/15669924-af87-48ba-99fc-206591acdb17)
+
+
+![Captura de Pantalla 2024-09-30 a la(s) 1 28 07 p m](https://github.com/user-attachments/assets/efed2535-5e4a-4011-b735-3fcf8807e76d)
 
  
 
-![Captura de Pantalla 2024-09-26 a la(s) 3 52 37 p m](https://github.com/user-attachments/assets/ec85e54c-3994-4bb4-886e-d10a22e5a90b)
+
 
 
 **PASOS A SEGUIR**
