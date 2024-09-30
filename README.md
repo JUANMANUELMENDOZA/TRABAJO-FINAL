@@ -31,7 +31,8 @@ El crecimiento del consumo de energía eléctrica está sujeto a diversos factor
 **Crecimiento económico.** Consiste en la tasa de crecimiento del Producto Interno Bruto (PIB). Si el crecimiento de la economía de una localidad o región aumenta, en consecuencia, también lo hace el consumo y la demanda de electricidad. Cuando la población tiene una mejora en su ingreso económico, las ventas de servicios y productos y aparatos electrodomésticos como: televisores, refrigeradores y aires acondicionados se dinamizan.
 
 **Crecimiento poblacional.** Consiste en la tasa de crecimiento del número de habitantes dentro de un territorio. El crecimiento poblacional se encuentra estrechamente relacionado con la edificación de vivienda, servicios públicos, desarrollos comerciales, desarrollo industrial y en consecuencia más consumo de electricidad.
-Estacionalidad. Los factores climáticos, temperaturas extremas, nevadas, lluvias, tienden a elevar la demanda de un Sistema Eléctrico de Potencia y con ella el consumo de energía eléctrica. En algunas situaciones, los factores climáticos, huracanes, fenómeno de El Niño, La Niña, sensación térmica, entre otros, ocasionan variaciones significativas en la demanda y consumo de energía eléctrica. 
+
+**Estacionalidad.** Los factores climáticos, temperaturas extremas, nevadas, lluvias, tienden a elevar la demanda de un Sistema Eléctrico de Potencia y con ella el consumo de energía eléctrica. En algunas situaciones, los factores climáticos, huracanes, fenómeno de El Niño, La Niña, sensación térmica, entre otros, ocasionan variaciones significativas en la demanda y consumo de energía eléctrica. 
 
 **Electromovilidad.** La movilidad eléctrica a través de vehículos particulares y transporte público, mercancías, personas, local y foráneo, presenta una alternativa tangible para mejorar la movilidad y la reducción de emisiones al medio ambiente. En un Sistema Eléctrico aumenta el consumo de energía eléctrica y demanda por la carga del sistema de almacenamiento de energía de los vehículos eléctricos. 
 
@@ -215,11 +216,11 @@ A continuación se muestra un mapa que refleja el consumo de energía eléctrica
 
 **LECCIONES APRENDIDAS**
 
-1. Como resultado del análisis podemos concluir que el Comportamiento del producto interno bruto (PIB) y el consumo de energía eléctrica en una región y durante un periodo, presentan una correlación positiva, hay contadas excepciones que no se cumple y donde la causa raíz es un evento atipico que influya en el comportamiento de las variables mencionadas. La figura 5.3 muestra un histograma formado con los factores de correlación obtenidos en el análisis estádistic.
+1. Como resultado del análisis podemos concluir que el Comportamiento del producto interno bruto (PIB) y el consumo de energía eléctrica en una región y durante un periodo, presentan una correlación positiva, hay contadas excepciones que no se cumple y donde la causa raíz es un evento atipico que influya en el comportamiento de las variables mencionadas. La figura 5.3 muestra un histograma formado con los factores de correlación obtenidos en el análisis estádistico.
 
-2. Con base a lo anterior, podemos afirmar que sin energía eléctrica para actividades primaias, secundarias o terciarias no hay crecimiento económico, no hay generación de empleos y en si, generación de riqueza en una región.
+2. Con base a lo anterior, podemos afirmar que sin energía eléctrica para actividades primarias, secundarias o terciarias no hay crecimiento económico, no hay generación de empleos y en si, generación de riqueza en una región.
 
-3. La relocalización de empresas que actualmente estan o estaban en China y han optado por instalarse en nuestro país (NEOSHORING), buscan instalarse en sitios donde se disponga de entre otras cosas, de red eléctrica para formar parques industriales que satisfagan la demanda de energía eléctrica. Asimismo, buscan condiciones de servicios básicos como agua, seguridad, certidumbre jurídica y acceso a medios de transporte con rutas a Estados Unidos de America principalmente.
+3. La relocalización de empresas que actualmente estan o estaban en China y han optado por instalarse en nuestro país (NEARSHORING), buscan instalarse en sitios donde se disponga de entre otras cosas, de red eléctrica para formar parques industriales que satisfagan la demanda de energía eléctrica. Asimismo, buscan condiciones de servicios básicos como agua, seguridad, certidumbre jurídica y acceso a medios de transporte con rutas a Estados Unidos de America principalmente.
 
 4. México dispone de un potencial para generar energías limpias (Sol y viento), la figura 5.4 muestra los mapas por separado. Asimismo, el mapa final de la figura 5.4, muestra el pronostico de crecimiento por región del consumo de energía eléctrica. 
  
@@ -234,7 +235,7 @@ A continuación se muestra un mapa que refleja el consumo de energía eléctrica
 
 2. Con base a lo anterior, realizar un nuevo análisis y contrastarlo con los mapas actuales donde se indique el potencial de energías limpias (Solar y eólica).
 
-3. El país requiere de energía para estar en movimiento, si el próximo Gobierno decide hacer inversiones públicas, privadas o mixtas, bienvenidas.
+3. El país requiere de energía para estar en movimiento, con este análisis se tienen identificada las zonas donde hay bajo crecimiento económico y que se dispone de red y capàcidad eléctrica, de igual forma zonas en las que estratégicamente se debe desarrollar infraestructura eléctrica , si el próximo Gobierno decide hacer inversiones públicas, privadas o mixtas, bienvenidas por el bien de México.
 
 
 
