@@ -216,15 +216,18 @@ A continuación se muestra un mapa que refleja el consumo de energía eléctrica
 
 **LECCIONES APRENDIDAS**
 
-1. Como resultado del análisis podemos concluir que el Comportamiento del producto interno bruto (PIB) y el consumo de energía eléctrica en una región y durante un periodo, presentan una correlación positiva, hay contadas excepciones que no se cumple y donde la causa raíz es un evento atipico que influya en el comportamiento de las variables mencionadas. La figura 5.3 muestra un histograma formado con los factores de correlación obtenidos en el análisis estádistico.
+1. Como resultado del análisis podemos concluir que el Comportamiento del producto interno bruto (PIB) y el consumo de energía eléctrica en una región y durante un periodo, presentan una correlación positiva, hay contadas excepciones que no se cumple y donde la causa raíz es un evento atipico que influya en el comportamiento de las variables mencionadas. La figura 5.3 muestra un histograma formado con los factores de correlación obtenidos en el análisis estádistico, el 96.96% presenta una correlación positiva.
 
 2. Con base a lo anterior, podemos afirmar que sin energía eléctrica para actividades primarias, secundarias o terciarias no hay crecimiento económico, no hay generación de empleos y en si, generación de riqueza en una región.
 
 3. La relocalización de empresas que actualmente estan o estaban en China y han optado por instalarse en nuestro país (NEARSHORING), buscan instalarse en sitios donde se disponga de entre otras cosas, de red eléctrica para formar parques industriales que satisfagan la demanda de energía eléctrica. Asimismo, buscan condiciones de servicios básicos como agua, seguridad, certidumbre jurídica y acceso a medios de transporte con rutas a Estados Unidos de America principalmente.
 
-4. México dispone de un potencial para generar energías limpias (Sol y viento), la figura 5.4 muestra los mapas por separado. Asimismo, el mapa final de la figura 5.4, muestra el pronostico de crecimiento por región del consumo de energía eléctrica. 
- 
+4. México dispone de un potencial para generar energías limpias (Sol y viento), la figura 5.4 muestra los mapas por separado. Asimismo, el mapa final de la figura 5.4, muestra el pronostico de crecimiento por región del consumo de energía eléctrica.
 
+
+![Captura de Pantalla 2024-09-30 a la(s) 10 20 28 a m](https://github.com/user-attachments/assets/0b8d38a6-4bbf-4343-97d7-72499cac91ef)
+
+ 
 
 ![Captura de Pantalla 2024-09-26 a la(s) 3 52 37 p m](https://github.com/user-attachments/assets/ec85e54c-3994-4bb4-886e-d10a22e5a90b)
 
