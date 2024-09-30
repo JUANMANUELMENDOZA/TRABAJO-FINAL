@@ -42,7 +42,10 @@ En lo que respecta al PIB, el INEGI y la secretaria de economía, lo explican de
 ![Captura de Pantalla 2024-09-26 a la(s) 2 42 44 p m](https://github.com/user-attachments/assets/5f614a81-9f57-4157-8480-05596ac6f1a6)
 
 
+
+
 Las consultas y obtención de las bases de datos se realizaron en las siguientes dependencias Gubernamentales:
+
 
 ![Captura de Pantalla 2024-09-26 a la(s) 2 43 27 p m](https://github.com/user-attachments/assets/e46511aa-a75e-4122-922c-e59bc51384e5)
 ![Captura de Pantalla 2024-09-26 a la(s) 2 43 39 p m](https://github.com/user-attachments/assets/d572d2b9-db69-4605-945d-f89b61273c5c)
