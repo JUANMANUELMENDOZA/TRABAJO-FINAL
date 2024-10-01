@@ -89,7 +89,11 @@ La base de datos obtenida del INEGI, muestra los datos del PIB por entidad feder
 33. PIB Yucatan
 34. PIB Zacatecas
 
-Cabe mencionar que, los datos de 33 columnas son valores en moneda, en Millones de Pesos, la otra columna son valores numericos correspondiente al año. A continuación una muestra parcial de la base de datos.
+Cabe mencionar que, los datos de 33 columnas son valores en moneda, en Millones de Pesos, la otra columna son valores numericos correspondiente al año. A continuación una muestra parcial de la base de datos original y adaptada.
+
+
+![Captura de Pantalla 2024-10-01 a la(s) 11 59 49 a m](https://github.com/user-attachments/assets/5703316f-edf8-476e-b3f2-4f9ad3cdea2b)
+
 
 ![Captura de Pantalla 2024-09-26 a la(s) 2 56 50 p m](https://github.com/user-attachments/assets/fa11362a-1857-4a0f-8e49-af4546794479)
 
@@ -132,7 +136,11 @@ Referente a la base de datos obtenida de SENER, muestra los datos del consumo de
 34. Consumo E.E. Zacateca
 
 
-Cabe mencionar que, los datos de 33 columnas son valores en número, Gigawatts-hora la otra columna son valores numericos correspondiente al año. Es importante señalar que, la base de datos del PIB por Estado muestra información del periodo 2003-2022, mientras que, la base de datos correspondiente al consumo de energía por Estado, solo durante el periodo 2003-2016, los consumos de energía durante el periodo 2017-2022 estan concentrados por bloques que incluyen más de un estado. Asimismo, con el objetivo de hacer coincidir bases de datos fue necesario trasponer datos correspondientes al consumo de energía eléctrica y convertir tablas xls a csv.  A continuación muestra parcial de BD.
+Cabe mencionar que, los datos de 33 columnas son valores en número, Gigawatts-hora la otra columna son valores numericos correspondiente al año. Es importante señalar que, la base de datos del PIB por Estado muestra información del periodo 2003-2022, mientras que, la base de datos correspondiente al consumo de energía por Estado, solo durante el periodo 2003-2016, los consumos de energía durante el periodo 2017-2022 estan concentrados por bloques que incluyen más de un estado. Asimismo, con el objetivo de hacer coincidir bases de datos fue necesario trasponer datos correspondientes al consumo de energía eléctrica y convertir tablas xls a csv.  A continuación se muestran parcialmente bases de datos original y adaptada..
+
+
+![Captura de Pantalla 2024-10-01 a la(s) 12 04 49 p m](https://github.com/user-attachments/assets/1eb90e04-0fab-4b9a-a025-7b753f2cb518)
+
 
 ![Captura de Pantalla 2024-09-26 a la(s) 2 58 51 p m](https://github.com/user-attachments/assets/63b569dd-7b31-4d00-954f-ef7dba193dec)
 
