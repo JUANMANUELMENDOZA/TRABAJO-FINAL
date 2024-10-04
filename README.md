@@ -3,7 +3,7 @@
 ## Contenido:
 
 ## 1.	Selección y Justificación de la Base de Datos.
-    a.	Busqueda de la base de datos.
+    a.	Búsqueda de la base de datos.
     b.	Justificación de la selección.
 ## 2.	Preparación y limpieza de los datos.
     a.	Descripción de la base de datos.
@@ -21,7 +21,7 @@
 
 He elegido realizar el análisis de este apasionante tema: El consumo de energía eléctrica y su correlación con el crecimiento económico, dicho análisis acotado a nivel entidad federativa y Nacional.
 
-El objetivo es demostrar que en condiciones normales la correlación entre el PIB y el consumo de energía eléctrica debe ser positiva, tanto a nivel nacional como por entidad federativa. Ahora bien, en los casos que no sea así, determinar la causa raíz.
+**El objetivo es demostrar que en condiciones normales la correlación entre el PIB y el consumo de energía eléctrica debe ser positiva, tanto a nivel nacional como por entidad federativa. Ahora bien, en los casos que no sea así, determinar la causa raíz.**
 
 Iniciemos con lo referente al consumo de energía eléctrica. El consumo final de energía eléctrica se refiere a la energía eléctrica vendida a través de CFE suministradores y esquemas de autoabastecimiento. El consumo final se compone por seis sectores tarifarios: residencial, comercial, servicios, bombeo agrícola, empresa mediana y gran industria, estos últimos concentran el 37.4% y 23.7%, respectivamente. En tercer lugar, está el sector residencial con 26.3%, le siguen el comercial, agrícola y servicios con 5.8%, 5.4% y 1.4%, en ese orden. 
 
@@ -71,7 +71,7 @@ La base de datos obtenida del INEGI, muestra los datos del PIB por entidad feder
 15. PIB Hidalgo
 16. PIB Jalisco
 17. PIB Estado de México
-18. PIB Michoacan
+18. PIB Michoacán
 19. PIB Morelos
 20. PIB Nayarit
 21. PIB Nuevo León
@@ -86,10 +86,10 @@ La base de datos obtenida del INEGI, muestra los datos del PIB por entidad feder
 30. PIB Tamaulipas
 31. PIB Tlaxcala
 32. PIB Veracruz
-33. PIB Yucatan
+33. PIB Yucatán
 34. PIB Zacatecas
 
-Cabe mencionar que, los datos de 33 columnas son valores en moneda, en Millones de Pesos, la otra columna son valores numericos correspondiente al año. A continuación una muestra parcial de la base de datos original y adaptada.
+Cabe mencionar que, los datos de 33 columnas son valores en moneda, en Millones de Pesos, la otra columna son valores numericos correspondiente al año. A continuación, una muestra parcial de la base de datos original y adaptada.
 
 
 ![Captura de Pantalla 2024-10-01 a la(s) 11 59 49 a m](https://github.com/user-attachments/assets/5703316f-edf8-476e-b3f2-4f9ad3cdea2b)
@@ -117,7 +117,7 @@ Referente a la base de datos obtenida de SENER, muestra los datos del consumo de
 15. Consumo E.E. Hidalgo
 16. Consumo E.E. Jalisco
 17. Consumo E.E. Estado de México
-18. Consumo E.E. Michoacan
+18. Consumo E.E. Michoacán
 19. Consumo E.E. Morelos
 20. Consumo E.E. Nayarit
 21. Consumo E.E. Nuevo León
@@ -132,11 +132,11 @@ Referente a la base de datos obtenida de SENER, muestra los datos del consumo de
 30. Consumo E.E. Tamaulipas
 31. Consumo E.E. Tlaxcala
 32. Consumo E.E. Veracruz
-33. Consumo E.E. Yucatan
+33. Consumo E.E. Yucatán
 34. Consumo E.E. Zacateca
 
 
-Cabe mencionar que, los datos de 33 columnas son valores en número, Gigawatts-hora la otra columna son valores numericos correspondiente al año. Es importante señalar que, la base de datos del PIB por Estado muestra información del periodo 2003-2022, mientras que, la base de datos correspondiente al consumo de energía por Estado, solo durante el periodo 2003-2016, los consumos de energía durante el periodo 2017-2022 estan concentrados por bloques que incluyen más de un estado. Asimismo, con el objetivo de hacer coincidir bases de datos fue necesario trasponer datos correspondientes al consumo de energía eléctrica y convertir tablas xls a csv.  A continuación se muestran parcialmente bases de datos original y adaptada..
+Cabe mencionar que, los datos de 33 columnas son valores en número, Gigawatts-hora la otra columna son valores numericos correspondiente al año. Es importante señalar que, la base de datos del PIB por Estado muestra información del periodo 2003-2022, mientras que, la base de datos correspondiente al consumo de energía por Estado, solo durante el periodo 2003-2016, los consumos de energía durante el periodo 2017-2022 estan concentrados por bloques que incluyen más de un estado. Asimismo, con el objetivo de hacer coincidir bases de datos fue necesario trasponer datos correspondientes al consumo de energía eléctrica y convertir tablas xls a csv.  A continuación, se muestran parcialmente bases de datos original y adaptada..
 
 
 ![Captura de Pantalla 2024-10-01 a la(s) 12 04 49 p m](https://github.com/user-attachments/assets/1eb90e04-0fab-4b9a-a025-7b753f2cb518)
@@ -147,7 +147,7 @@ Cabe mencionar que, los datos de 33 columnas son valores en número, Gigawatts-h
 
 ## 3.	Análisis exploratorio de datos (EDA).
 
-Utilizando excel, se integraron las bases de datos para realizar cálculos estadísticos (media, mediana, desviación estandar y factor de correlación) y gráficas que reflejan la correlación entre PIB y consumo de energía. 
+Utilizando excel, se integraron las bases de datos para realizar cálculos estadísticos (media, mediana, desviación estándar y factor de correlación) y gráficas que reflejan la correlación entre PIB y consumo de energía. 
 
 ![Captura de Pantalla 2024-09-26 a la(s) 3 01 45 p m](https://github.com/user-attachments/assets/b9738e6a-7050-470d-ab8a-dc7b4a8b18fd)
 
@@ -184,7 +184,7 @@ Utilizando excel, se integraron las bases de datos para realizar cálculos estad
 ![Captura de Pantalla 2024-09-26 a la(s) 3 09 42 p m](https://github.com/user-attachments/assets/c1503b2d-d1c6-4c5d-bca0-944a0dff0260)
 
 
-Ahora bien, aplicando lo visto en la 3ª sesión de python, prepare el archivo excel a csv, eliminando la columna de periodos y dejando para análisis el periodo 2003-2016. A continuación se muestran imágenes del código, análisis estádistico y mapa de calor para correlación entre PIB y consumo de energía eléctrica.
+Ahora bien, aplicando lo visto en la 3ª sesión de python, prepare el archivo excel a csv, eliminando la columna de periodos y dejando para análisis el periodo 2003-2016. A continuación, se muestran imágenes del código, análisis estadístico y mapa de calor para correlación entre PIB y consumo de energía eléctrica.
 
 ![Captura de Pantalla 2024-09-26 a la(s) 3 15 10 p m](https://github.com/user-attachments/assets/cc832ba7-2c66-4359-8f85-b0c7f6d5b801)
 ![Captura de Pantalla 2024-09-26 a la(s) 3 15 31 p m](https://github.com/user-attachments/assets/e01873a9-2fd1-4c0b-b41e-aba1d47542b1)
@@ -195,7 +195,7 @@ Ahora bien, aplicando lo visto en la 3ª sesión de python, prepare el archivo e
 
 ## 4.	Visualización de datos.
 
-Si bien en los análisis estádisticos realizados en excel y la parte de python, se obtienen algunas gráficas, la vizualización completa la realice en tableau. A continuación se muestran imágenes de los dashboards elaborados. Cabe mencionar que, para incluir gráficas de los 32 estados y a nivel nacional, los agrupe de cuatro en cada dashboard. Utilice gráficas combinadas, barras para representar el consumo de energía eléctrica y líneas para indicar el PIB.
+Si bien en los análisis estádisticos realizados en excel y la parte de python, se obtienen algunas gráficas, la visualización completa la realice en tableau. A continuación, se muestran imágenes de los dashboards elaborados. Cabe mencionar que, para incluir gráficas de los 32 estados y a nivel nacional, los agrupe de cuatro en cada dashboard. Utilice gráficas combinadas, barras para representar el consumo de energía eléctrica y líneas para indicar el PIB.
 
 ![Captura de Pantalla 2024-09-26 a la(s) 3 19 20 p m](https://github.com/user-attachments/assets/70cf306f-9af9-47e1-aa9b-bc77df9ddb41)
 ![Captura de Pantalla 2024-09-26 a la(s) 3 19 35 p m](https://github.com/user-attachments/assets/2c58d68a-8fa6-4b94-8397-30c0a0bd1785)
@@ -210,9 +210,9 @@ Si bien en los análisis estádisticos realizados en excel y la parte de python,
 
 ## 5.	Interpretación y conclusiones
 
-En las figuras de la 1.1 a la 1.3 se muestra la definición del PIB, como se obtiene y su segmentación. Asimismo, en las figuras 1.4 y 1.5 se indican las fuentes de la bases de datos. Se explica adicionalmente el porque se elegierón estas bases de datos.
-La figuras 2.1 y 2.2, son muestra parcial de las fuentes de datos obtenidas. Asimismo, se comenta el tratamiento que se dío a las mismas.
-En referencia a las figuras de la 3.1 a la 3.33, se muestran la base de datos parcial a nivel nacional y por cada entidad federativa, en donde se muestran datos estádisticos como son media, mediana, desviación estandar y factor de correlación entre el PIB y consumo de energía.
+En las figuras de la 1.1 a la 1.3 se muestra la definición del PIB, como se obtiene y su segmentación. Asimismo, en las figuras 1.4 y 1.5 se indican las fuentes de las bases de datos. Se explica adicionalmente el porque se elegierón estas bases de datos.
+La figuras 2.1 y 2.2, son muestra parcial de las fuentes de datos obtenidas. Asimismo, se comenta el tratamiento que se dio a las mismas.
+En referencia a las figuras de la 3.1 a la 3.33, se muestran la base de datos parcial a nivel nacional y por cada entidad federativa, en donde se muestran datos estadísticos como son media, mediana, desviación estándar y factor de correlación entre el PIB y consumo de energía.
 
 En particular las figuras 3.1 y 4.1, muestran el consumo de energía y el PIB a nivel nacional utilizando líneas y gráfica combinada. Cabe reiterar que, se dispone de datos del PIB para el periodo 2003-2022 y de consumo de energía del 2003 al 2016. En las gráficas se observa, una depresión en  2009-2010 a consecuencia de la pandemia de influenza y que provocó una contracción de la economía y en 2020 una mayor contracción a causa de la pandemia del COVID 19. Resalta la correlación positiva entre ambas curvas.
 
@@ -226,17 +226,17 @@ Referente al consumo nacional de energía de 2016 (último dato certero) fue de 
 
 Ahora bien, en las gráficas 3.1 a 3.33 y 4.1 a 4.9 se presenta entre otras cosas la correlación entre el PIB y el consumo de energía eléctrica a nivel nacional y los 32 estados (incluyendo la CDMX), merecen atención especial dos casos donde la correlación es negativa y casi cero.
 
-**Estado de Campeche:** En las figuras 3.5 y 4.8 muestran una correlación negativa y se observa que a partir de 2003 el PIB tiene una tendencia a la baja, caso contrario al consumo de energía que tiende a incrementarse desde 2003. La causa de la caida en el PIB de manera constante durante los últimos años, es por la baja producción petrolera, el PIB dependía en un 80% de la actividad petrolera, por ello la economía del estado ha colapsado y se adapta al nuevo entorno económico. 
+**Estado de Campeche:** En las figuras 3.5 y 4.8 muestran una correlación negativa y se observa que a partir de 2003 el PIB tiene una tendencia a la baja, caso contrario al consumo de energía que tiende a incrementarse discretamente desde 2003. La causa de la caida en el PIB de manera constante durante los últimos años, es por la baja producción petrolera, el PIB dependía en un 80% de la actividad petrolera, por ello la economía del estado ha colapsado y se adapta al nuevo entorno económico. 
 
-**Estado de Michoacan:** Las figuras 3.17 y 4.4 muestran una correlación minima y un comportamiento del PIB incrementandose de manera natural desde 2003, con las caidas en 2009 y 2020 causadas por las pandemias de influenza y COVID-19 respectivamente. Ahora bien, el consumo de energía presenta una caida muy pronunciada. 
-Al ser un estado poco industrializado, prácticamente solo la industria siderúrgica del puerto Lázaro Cárdenas es el principal impulsor. La caida en el consumo en 2009 interrumpió la tendencia al alza que se venía presentando y la recuperación aún no ha llegado, esto por diversos factores, la inseguridad y las huelgas que aquejan a esa industria. 
+**Estado de Michoacán:** Las figuras 3.17 y 4.4 muestran una correlación minima y un comportamiento del PIB incrementandose de manera natural desde 2003, con las caidas en 2009 y 2020 causadas por las pandemias de influenza y COVID-19 respectivamente. Ahora bien, el consumo de energía presenta una caida muy pronunciada. 
+Al ser un estado poco industrializado, prácticamente solo la industria siderúrgica del puerto Lázaro Cárdenas es el principal impulsor. La caída en el consumo en 2009 interrumpió la tendencia al alza que se venía presentando y la recuperación aún no ha llegado, esto por diversos factores, la inseguridad y las huelgas que aquejan a esa industria. 
 
-A continuación se muestra un mapa que refleja el porcentaje de participación en el PIB nacional de cada entidad federativa al cierre de 2022.
+A continuación, se muestra un mapa que refleja el porcentaje de participación en el PIB nacional de cada entidad federativa al cierre de 2022.
 
 ![Captura de Pantalla 2024-09-26 a la(s) 3 50 57 p m](https://github.com/user-attachments/assets/f7846e96-293b-4468-a080-cf9c5c3f60a9)
 
 
-A continuación se muestra un mapa que refleja el consumo de energía eléctrica en GWH en el ámbito regional al cierre de 2022.
+A continuación, se muestra un mapa que refleja el consumo de energía eléctrica en GWH en el ámbito regional al cierre de 2022.
 
 ![Captura de Pantalla 2024-09-26 a la(s) 3 51 35 p m](https://github.com/user-attachments/assets/2d512b92-a2c7-4c40-91f8-00776aa36b4f)
 
@@ -244,13 +244,13 @@ A continuación se muestra un mapa que refleja el consumo de energía eléctrica
 
 **LECCIONES APRENDIDAS**
 
-1. Como resultado del análisis podemos concluir que el Comportamiento del producto interno bruto (PIB) y el consumo de energía eléctrica en una región y durante un periodo, presentan una correlación positiva, hay contadas excepciones que no se cumple y donde la causa raíz es un evento atipico que influya en el comportamiento de las variables mencionadas. La figura 5.3 muestra un histograma formado con los factores de correlación obtenidos en el análisis estádistico, el 96.96% presenta una correlación positiva.
+1. Como resultado del análisis podemos concluir que el Comportamiento del producto interno bruto (PIB) y el consumo de energía eléctrica en una región y durante un periodo, presentan una correlación positiva, hay contadas excepciones que no se cumple y donde la causa raíz es un evento atípico que influya en el comportamiento de las variables mencionadas. La figura 5.3 muestra un histograma formado con los factores de correlación obtenidos en el análisis estadístico, el 96.96% presenta una correlación positiva.
 
 2. Con base a lo anterior, podemos afirmar que sin energía eléctrica para actividades primarias, secundarias o terciarias no hay crecimiento económico, no hay generación de empleos y en si, generación de riqueza en una región.
 
-3. La relocalización de empresas que actualmente estan o estaban en China y han optado por instalarse en nuestro país (NEARSHORING), buscan instalarse en sitios donde se disponga de entre otras cosas, de red eléctrica para formar parques industriales que satisfagan la demanda de energía eléctrica. Asimismo, buscan condiciones de servicios básicos como agua, seguridad, certidumbre jurídica y acceso a medios de transporte con rutas a Estados Unidos de America principalmente.
+3. La relocalización de empresas que actualmente están o estaban en China y han optado por instalarse en nuestro país (NEARSHORING), buscan instalarse en sitios donde se disponga de entre otras cosas, de red eléctrica para formar parques industriales que satisfagan la demanda de energía eléctrica. Asimismo, buscan condiciones de servicios básicos como agua, seguridad, certidumbre jurídica y acceso a medios de transporte con rutas a Estados Unidos de América principalmente.
 
-4. México dispone de un potencial para generar energías limpias (Sol y viento), la figura 5.4 muestra los mapas por separado. Asimismo, el mapa final de la figura 5.4, muestra el pronostico de crecimiento por región del consumo de energía eléctrica.
+4. México dispone de un potencial para generar energías limpias (Sol y viento), la figura 5.4 muestra los mapas por separado. Asimismo, el mapa final de la figura 5.4, muestra el pronóstico de crecimiento por región del consumo de energía eléctrica.
 
 
 ![Captura de Pantalla 2024-09-30 a la(s) 1 27 54 p m](https://github.com/user-attachments/assets/15669924-af87-48ba-99fc-206591acdb17)
@@ -269,7 +269,7 @@ A continuación se muestra un mapa que refleja el consumo de energía eléctrica
 
 2. Con base a lo anterior, realizar un nuevo análisis y contrastarlo con los mapas actuales donde se indique el potencial de energías limpias (Solar y eólica).
 
-3. El país requiere de energía para estar en movimiento, con este análisis se tienen identificada las zonas donde hay bajo crecimiento económico y que se dispone de red y capàcidad eléctrica, de igual forma zonas en las que estratégicamente se debe desarrollar infraestructura eléctrica , si el próximo Gobierno decide hacer inversiones públicas, privadas o mixtas, bienvenidas por el bien de México.
+3. El país requiere de energía para estar en movimiento, con este análisis se tienen identificada las zonas donde hay bajo crecimiento económico y que se dispone de red y capacidad eléctrica, de igual forma zonas en las que estratégicamente se debe desarrollar infraestructura eléctrica, si el próximo Gobierno decide hacer inversiones públicas, privadas o mixtas, bienvenidas por el bien de México.
 
 
 
